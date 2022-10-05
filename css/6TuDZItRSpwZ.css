@@ -748,7 +748,7 @@ img.roadmap01 {
     right: 12vw;
     width: 100%;
     z-index: 9;
-    animation: roadmap01 10s ease 0s infinite alternate forwards;
+    /* animation: roadmap01 10s ease 0s infinite alternate forwards; */
 }
 .roadmap .container {
     position: relative;
